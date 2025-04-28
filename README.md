@@ -82,3 +82,9 @@ Because the repository automatically adds important info **after your first push
 Pulling updates prevents **errors** and keeps everything **up-to-date**! 🚀
 
 **Watch this video explaining everything 👉:** TODO
+
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?logo=github)](https://shytypes.github.io/vanilla-web-dev-speedrun-portfolio-assessment-portfolio-assignment/)
+
+
+🚀 **View the project here**: [https://shytypes.github.io/vanilla-web-dev-speedrun-portfolio-assessment-portfolio-assignment/](https://shytypes.github.io/vanilla-web-dev-speedrun-portfolio-assessment-portfolio-assignment/)
