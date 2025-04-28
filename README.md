@@ -3,6 +3,10 @@
 Welcome, student! 👋
 This repository contains everything you need to complete your **portfolio assignment**.
 
+---
+
+[![Auto Update](https://img.shields.io/badge/Auto--Update-GitHub%20Actions-blue?logo=github)](https://github.com/features/actions)
+
 ## 🗞️ Description
 
 The goal of this assignment is to build a one-page **personal portfolio** that showcases your skills, projects, and experiences. This template provides a basic structure to help you get started.
