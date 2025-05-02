@@ -4,12 +4,11 @@
   padding: 0px;
 }
 
-/*title text style*/
-body{color: cornflowerblue;background-color: floralwhite;font-family: 'Segoe UI';}
+body{color: cornflowerblue;background-color: floralwhite;font-family:'Segoe UI';font-size: 50px;}
 header{color: cornflowerblue;background-color: floralwhite;font-family: 'Segoe UI';font-size: 50px;}
 
 /* the font-family 'JetBrains Mono', has been linked
 
 
  * and is available for your use
- * */
+ 
